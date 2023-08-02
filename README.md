@@ -1,4 +1,4 @@
-<h1 align="center">Heya, I'm Shivansh Seth</h1>
+<h1 align="center">Heya👋, I'm Shivansh Seth</h1>
 <h3 align="center">💻 Cybersecurity Enthusiast | 📱 Android Development | 🔬 Deep Learning | 🎨Graphic Designer | 🕸️ Web Exploitation | 📽️ Video Editor | 🎸 Electric Guitarist</h3>
 
 - 📝 I regularly write articles on [https://shibushivansh.medium.com/](https://shibushivansh.medium.com/)
